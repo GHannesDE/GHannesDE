@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @GHannesDE
-- 👀 I’m interested in Website Stuff 😅
-- 🌱 I’m currently learning Winget
+- 🌱 I’m currently learning Python
 - 📫 How to reach me https://www.instagram.com/ghannes_de/
 
 <!---
